@@ -1,0 +1,4 @@
+/Users/pkalkman/Projects/st/docker-net/App/bin/Release/net5.0/publish/NetCore.NonRoot.dll
+/Users/pkalkman/Projects/st/docker-net/App/bin/Release/net5.0/publish/NetCore.NonRoot.deps.json
+/Users/pkalkman/Projects/st/docker-net/App/bin/Release/net5.0/publish/NetCore.NonRoot.runtimeconfig.json
+/Users/pkalkman/Projects/st/docker-net/App/bin/Release/net5.0/publish/NetCore.NonRoot.pdb

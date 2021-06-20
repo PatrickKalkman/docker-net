@@ -1,0 +1,10 @@
+/Users/pkalkman/Projects/st/docker-net/health-check/bin/Debug/net5.0/publish/appsettings.Development.json
+/Users/pkalkman/Projects/st/docker-net/health-check/bin/Debug/net5.0/publish/appsettings.json
+/Users/pkalkman/Projects/st/docker-net/health-check/bin/Debug/net5.0/publish/health-check.dll
+/Users/pkalkman/Projects/st/docker-net/health-check/bin/Debug/net5.0/publish/health-check.deps.json
+/Users/pkalkman/Projects/st/docker-net/health-check/bin/Debug/net5.0/publish/health-check.runtimeconfig.json
+/Users/pkalkman/Projects/st/docker-net/health-check/bin/Debug/net5.0/publish/health-check.pdb
+/Users/pkalkman/Projects/st/docker-net/health-check/bin/Debug/net5.0/publish/Microsoft.OpenApi.dll
+/Users/pkalkman/Projects/st/docker-net/health-check/bin/Debug/net5.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/pkalkman/Projects/st/docker-net/health-check/bin/Debug/net5.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/pkalkman/Projects/st/docker-net/health-check/bin/Debug/net5.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
